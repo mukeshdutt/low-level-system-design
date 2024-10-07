@@ -1,4 +1,4 @@
-package org.example;
+package org.example.ui;
 
 public interface IGUIFactory {
     IButton createButton();

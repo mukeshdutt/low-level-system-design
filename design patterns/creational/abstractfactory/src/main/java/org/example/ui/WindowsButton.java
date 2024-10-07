@@ -1,4 +1,4 @@
-package org.example;
+package org.example.ui;
 
 public class WindowsButton implements IButton {
 
