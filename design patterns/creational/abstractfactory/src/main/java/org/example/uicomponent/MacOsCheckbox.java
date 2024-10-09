@@ -1,4 +1,4 @@
-package org.example.ui;
+package org.example.uicomponent;
 
 public class MacOsCheckbox implements ICheckbox {
     @Override
